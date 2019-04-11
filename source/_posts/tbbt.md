@@ -8,6 +8,8 @@ categories: TV
 
 I have been watching the Big Bang Theory several times since middle school. In the TV series, the characters have mentioned tons of scientific facts. I am going to include some topics in this post. 
 
+![Cover](/images/tbbt/cover.jpg)
+
 <!-- more -->
 
 # A

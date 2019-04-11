@@ -42,7 +42,7 @@ If I spend ￥39,150 which is approximately $6,000 on a 2018 27-inch iMac Pro, I
 It looks perfect, though the CPU, GPU, Memory, Flash Drive storage are the least expensive options to choose from. However, the nearly $6,000 price is overwhelmingly expensive; the 27-inch 5120 x 2880 screen is too much for me as well. 
 
 ## If I build a PC myself
-Building a PC is quite easy and economical, but I haven't got used to the developing-unfriendly Windows operating system. However, I can install two operating systems in the future if needed. Consequently, after the rational analysis of what I really need and how much I can spare to purchase a new computer, I decide to build a PC myself, instead of purchasing a new Apple. 
+Building a PC is quite easy and costs far less money, but I haven't got used to the Windows operating system. However, I can install two operating systems in the future if needed. Consequently, after the rational analysis of what I really need and how much I can spare to purchase a new computer, I decide to build a PC myself, instead of purchasing a new Apple. 
 
 # Selection of Components
 Here is a list of the components I have bought, and the places from which I bought them. I bought them during the JD and Taobao 618, so the present prices of the components may be different. 
